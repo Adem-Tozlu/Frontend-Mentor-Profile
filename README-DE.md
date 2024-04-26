@@ -20,7 +20,7 @@ Dies ist eine Lösung für die [Social links profile-Herausforderung auf Fronten
 
 ### Screenshot
 
-![Screenshot](/assets/images/desktop-ansicht.png.png)
+![Screenshot](/assets/images/desktop-ansicht.png)
 
 ### Links
 
